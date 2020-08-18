@@ -1,0 +1,170 @@
+
+
+/* WEB FONTS INACTIVE styles */
+
+.wf-inactive body, caption, th, td, input, textarea, select, option, legend, fieldset {
+	font-family: helvetica, arial, sans-serif;	
+}
+
+.wf-inactive h1 {
+	font-family: Georgia; 
+}
+
+.wf-inactive h2 {
+	font-family: Georgia; 
+}
+
+.wf-inactive h3 {
+	font-family: Georgia; 
+}
+
+
+/* fallback font correction */
+.wf-inactive.corrected body, 
+.wf-inactive.corrected caption, 
+.wf-inactive.corrected th, 
+.wf-inactive.corrected td, 
+.wf-inactive.corrected input, 
+.wf-inactive.corrected textarea, 
+.wf-inactive.corrected select, 
+.wf-inactive.corrected option, 
+.wf-inactive.corrected legend, 
+.wf-inactive.corrected fieldset {
+	font-size: 1em;
+	line-height: 1.4em;
+	letter-spacing: 0;	
+}
+
+.wf-inactive.corrected p {
+	font-size: 1em;
+	line-height: 1.38em;
+	letter-spacing: -0.05px;
+	word-spacing: 0.035em;
+}
+
+.wf-inactive.corrected h1 {
+	font-size: 3.2em;
+	letter-spacing: -0.75px;
+	line-height: 1.05;
+	margin-top: 0.65em;
+	margin-bottom: 0.55em;
+}
+
+.wf-inactive.corrected h2 {
+    font-size: 2.25em;
+    letter-spacing: normal;
+    line-height: 1.25;
+}
+
+.wf-inactive.corrected h3 {
+    font-size: 1.2em;
+    letter-spacing: normal;
+    line-height: 1.25;
+    margin-top: 1.2em;
+	margin-bottom: 0;
+}
+
+.wf-inactive nav .menu li a {
+	font-family: helvetica, arial, sans-serif; 
+	font-weight: bold;
+}
+
+.wf-inactive.corrected nav .menu li {
+	height: 2.7em;
+}
+
+.wf-inactive.corrected nav .menu li a {
+	font-size: 1.1em;
+	letter-spacing: -0.35px;
+	line-height: 1.8em;
+	padding-bottom: 0.2em;
+	padding-top: 0.2em;
+}
+
+.wf-inactive.corrected header h1 {
+	line-height: 1.25em; 
+	letter-spacing: -4px;
+	font-size: 1.95em;
+	margin: 0.25em 0;
+}
+
+.wf-inactive.corrected #comments h2 {
+	font-size: 1.8em;
+	margin-top: 0.7em;
+}
+
+/* END WEB FONTS INACTIVE styles */
+
+
+
+/* POLISH styles */
+
+/* OTF features */
+h1 {
+	-moz-font-feature-settings: "calt=1", "clig=1", "dlig=1", "kern=1", "liga=1", "salt=1";
+	-moz-font-feature-settings: "calt" 1, "clig" 1, "dlig" 1, "kern" 1, "liga" 1, "salt" 1;
+	-webkit-font-feature-settings: "calt" 1, "clig" 1, "dlig" 1, "kern" 1, "liga" 1, "salt" 1;
+	-ms-font-feature-settings: "calt=1", "clig=1", "dlig=1", "kern=1", "liga=1", "salt=1";
+	-o-font-feature-settings: "calt" 1, "clig" 1, "dlig" 1, "kern" 1, "liga" 1, "salt" 1;
+	font-feature-settings: "calt" 1, "clig" 1, "dlig" 1, "kern" 1, "liga" 1, "salt" 1;
+}
+
+h2 {
+	-moz-font-feature-settings: "calt=1", "clig=1", "dlig=1", "kern=1", "liga=1", "salt=1";
+	-moz-font-feature-settings: "calt" 1, "clig" 1, "dlig" 1, "kern" 1, "liga" 1, "salt" 1;
+	-webkit-font-feature-settings: "calt" 1, "clig" 1, "dlig" 1, "kern" 1, "liga" 1, "salt" 1;
+	-ms-font-feature-settings: "calt=1", "clig=1", "dlig=1", "kern=1", "liga=1", "salt=1";
+	-o-font-feature-settings: "calt" 1, "clig" 1, "dlig" 1, "kern" 1, "liga" 1, "salt" 1;
+	font-feature-settings: "calt" 1, "clig" 1, "dlig" 1, "kern" 1, "liga" 1, "salt" 1;
+}
+
+h3 {
+	-moz-font-feature-settings: "calt=1", "clig=1", "dlig=1", "kern=1", "liga=1", "salt=1";
+	-moz-font-feature-settings: "calt" 1, "clig" 1, "dlig" 1, "kern" 1, "liga" 1, "salt" 1;
+	-webkit-font-feature-settings: "calt" 1, "clig" 1, "dlig" 1, "kern" 1, "liga" 1, "salt" 1;
+	-ms-font-feature-settings: "calt=1", "clig=1", "dlig=1", "kern=1", "liga=1", "salt=1";
+	-o-font-feature-settings: "calt" 1, "clig" 1, "dlig" 1, "kern" 1, "liga" 1, "salt" 1;
+	font-feature-settings: "calt" 1, "clig" 1, "dlig" 1, "kern" 1, "liga" 1, "salt" 1;
+}
+
+p {
+	-moz-font-feature-settings: "calt=1", "clig=1", "dlig=1", "kern=1", "liga=1", "salt=1";
+	-moz-font-feature-settings: "calt" 1, "clig" 1, "dlig" 1, "kern" 1, "liga" 1, "salt" 1;
+	-webkit-font-feature-settings: "calt" 1, "clig" 1, "dlig" 1, "kern" 1, "liga" 1, "salt" 1;
+	-ms-font-feature-settings: "calt=1", "clig=1", "dlig=1", "kern=1", "liga=1", "salt=1";
+	-o-font-feature-settings: "calt" 1, "clig" 1, "dlig" 1, "kern" 1, "liga" 1, "salt" 1;
+	font-feature-settings: "calt" 1, "clig" 1, "dlig" 1, "kern" 1, "liga" 1, "salt" 1;
+}
+
+blockquote {
+	-moz-font-feature-settings: "calt=1", "clig=1", "dlig=1", "kern=1", "liga=1", "salt=1";
+	-moz-font-feature-settings: "calt" 1, "clig" 1, "dlig" 1, "kern" 1, "liga" 1, "salt" 1;
+	-webkit-font-feature-settings: "calt" 1, "clig" 1, "dlig" 1, "kern" 1, "liga" 1, "salt" 1;
+	-ms-font-feature-settings: "calt=1", "clig=1", "dlig=1", "kern=1", "liga=1", "salt=1";
+	-o-font-feature-settings: "calt" 1, "clig" 1, "dlig" 1, "kern" 1, "liga" 1, "salt" 1;
+	font-feature-settings: "calt" 1, "clig" 1, "dlig" 1, "kern" 1, "liga" 1, "salt" 1;
+}
+
+/* reset type when OTF are inactive */
+.otf-inactive h1, 
+.otf-inactive h2, 
+.otf-inactive h3, 
+.otf-inactive p, 
+.otf-inactive blockquote {
+	-moz-font-feature-settings: "calt=0", "clig=0", "dlig=0", "kern=0", "liga=0", "salt=0";
+	-moz-font-feature-settings: "calt" 0, "clig" 0, "dlig" 0, "kern" 0, "liga" 0, "salt" 0;
+	-webkit-font-feature-settings: "calt" 0, "clig" 0, "dlig" 0, "kern" 0, "liga" 0, "salt" 0;
+	-ms-font-feature-settings: "calt=0", "clig=0", "dlig=0", "kern=0", "liga=0", "salt=0";
+	-o-font-feature-settings: "calt" 0, "clig" 0, "dlig" 0, "kern" 0, "liga" 0, "salt" 0;
+	font-feature-settings: "calt" 0, "clig" 0, "dlig" 0, "kern" 0, "liga" 0, "salt" 0;
+}
+
+/* remove OTF features when desired */
+.otf-off {
+	-moz-font-feature-settings: "calt=0", "clig=0", "dlig=0", "kern=0", "liga=0", "salt=0";
+	-moz-font-feature-settings: "calt" 0, "clig" 0, "dlig" 0, "kern" 0, "liga" 0, "salt" 0;
+	-webkit-font-feature-settings: "calt" 0, "clig" 0, "dlig" 0, "kern" 0, "liga" 0, "salt" 0;
+	-ms-font-feature-settings: "calt=0", "clig=0", "dlig=0", "kern=0", "liga=0", "salt=0";
+	-o-font-feature-settings: "calt" 0, "clig" 0, "dlig" 0, "kern" 0, "liga" 0, "salt" 0;
+	font-feature-settings: "calt" 0, "clig" 0, "dlig" 0, "kern" 0, "liga" 0, "salt" 0;
+}
